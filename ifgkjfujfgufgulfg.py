@@ -35,6 +35,6 @@ class CelaCisla(Cisla):
 
 dvojka.vypis()
 
-
+moc nečum
 
 
